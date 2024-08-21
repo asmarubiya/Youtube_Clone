@@ -2,9 +2,12 @@
 
 ![YouTube Thumbnail](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-## About This Project
+## Project Overview
 
-This project demonstrates how to build a modern YouTube clone using React JS and Material UI 5. It showcases advanced frontend development techniques and the integration of sleek, responsive design elements.
+This project demonstrates how to build a modern YouTube clone using React JS and Material UI 5. It showcases advanced frontend development techniques and the integration of sleek, responsive design elements. 🚀
+
+Explore the live project [here](https://youtube-clone-ten-lime.vercel.app/). 🎥
+
 
 ### Key Features
 
