@@ -46,19 +46,19 @@ To get a local copy up and running follow these simple steps.
 
 ### Image 1
 
-![Image 1](path/to/img1.png)
+![Image 1](public/images/img1.png)
 
 ### Image 2
 
-![Image 2](path/to/img2.png)
+![Image 2](public/images/img2.png)
 
 ### Image 3
 
-![Image 3](path/to/img3.png)
+![Image 3](public/images/img3.png)
 
 ### Image 4
 
-![Image 4](path/to/img4.png)
+![Image 4](public/images/img4.png)
 
 
 Contributing
@@ -70,6 +70,5 @@ This project is licensed under the MIT License.
 Contact
 For any questions or inquiries, please contact me at asmarubiya456@gmail.com.
 
-Replace `path/to/img1.png`, `path/to/img2.png`, `path/to/img3.png`, and `path/to/img4.png` with the actual paths or URLs to your images.
 
 
