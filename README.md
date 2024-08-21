@@ -42,5 +42,34 @@ To get a local copy up and running follow these simple steps.
 
    ```bash
    Visit http://localhost:3000 to view the application.
+## Screenshots
+
+### Image 1
+
+![Image 1](path/to/img1.png)
+
+### Image 2
+
+![Image 2](path/to/img2.png)
+
+### Image 3
+
+![Image 3](path/to/img3.png)
+
+### Image 4
+
+![Image 4](path/to/img4.png)
+
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For any questions or inquiries, please contact me at asmarubiya456@gmail.com.
+
+Replace `path/to/img1.png`, `path/to/img2.png`, `path/to/img3.png`, and `path/to/img4.png` with the actual paths or URLs to your images.
 
 
